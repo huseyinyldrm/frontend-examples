@@ -1,2 +1,1 @@
-# frontend
--examples
+# frontend-examples
