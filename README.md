@@ -1,1 +1,2 @@
-# js-language-examples
+# frontend
+-examples
